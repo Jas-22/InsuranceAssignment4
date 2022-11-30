@@ -54,7 +54,19 @@
   <ItemGroup>
     <Compile Include="Class1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Test10AllEmptyTest.cs" />
+    <Compile Include="Test11PhoneNumberFormatRoundBracketAllValidAge45Exp10ACC0Test.cs" />
+    <Compile Include="Test12AllValidAge25Exp20ACC0Test.cs" />
+    <Compile Include="Test15CityOmittedRestValidTest.cs" />
     <Compile Include="Test1Allvalidage25Ex3acc4Test.cs" />
+    <Compile Include="Test2Allvalidage25Ex3acc4Test.cs" />
+    <Compile Include="Test3Allvalidage25Ex10acc2Test.cs" />
+    <Compile Include="Test4invalidphonenumberage27Ex3acc0Test.cs" />
+    <Compile Include="Test5invalidemailage28Ex3acc0Test.cs" />
+    <Compile Include="Test6InvalidPostalage35Ex17acc1Test.cs" />
+    <Compile Include="Test7AgeOmittedEx5acc0Test.cs" />
+    <Compile Include="Test8atfaultaccidentOmittedage37ex8Test.cs" />
+    <Compile Include="Test9exomittedage45acc0Test.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
